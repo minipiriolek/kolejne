@@ -1,0 +1,2 @@
+to jest nowa funkcjonalnosc 
+zrobiona na galezi feature/new-function
